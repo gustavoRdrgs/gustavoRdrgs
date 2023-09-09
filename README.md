@@ -1,5 +1,5 @@
 <h2>Olá, me chamo Gustavo! 🙂</h2>
-<h3>Sou um estudante de Ciência da Computação apaixonado por descobrir coisas novasc</h3>
+<h3>Sou um estudante de Ciência da Computação apaixonado por descobrir coisas novas 🐈‍⬛</h3>
 <div></div>
 
 - 🔭 Working on backend development
