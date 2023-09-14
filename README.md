@@ -9,7 +9,7 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoRdrgs&layout=compact&langs_count=8&card_width=320&theme=shadow_blue&" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoRdrgs&theme=shadow_blue&show_icons=true&include_all_commits=false&rank_icon=github" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoRdrgs&theme=shadow_blue&show_icons=true&include_all_commits=true&rank_icon=github" />
 </a>
 
 <div style="display: inline_block"><br>
