@@ -3,7 +3,7 @@
 <div></div>
 
 - 🔭 Working on backend development
-- 🌱 Learning Node, React and Django
+- 🌱 Learning Node and Django
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoRdrgs&layout=compact&langs_count=8&card_width=320&theme=shadow_blue&" />
